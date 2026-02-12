@@ -1,0 +1,175 @@
+/*
+ * default
+ */
+table {
+	color: #de0000;
+	font-size: 13px;
+	font-family: Verdana, Tahoma, Hevletica, Arial;	
+}
+.text  {
+	color: #de0000;
+	font-size: 13px;
+	font-family: Verdana, Tahoma, Hevletica, Arial;	
+}
+
+.textsmall  {
+	color: #000;
+	font-size: 9pt;
+	font-family: Verdana, Tahoma, Arial
+}
+
+.texttabsmall  {
+	color: #505050;
+	font-size: 9pt;
+	font-family: Verdana, Tahoma, Arial
+}
+
+a { color: #000 }
+a:hover { color: red}
+
+h1 {
+	color: #a30000;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3em;
+	font-family: Hevletica, Tahoma, Arial;
+	margin-left: 30pt
+}
+h2 {
+	color: #a30000;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 2em;
+	font-family: Hevletica, Tahoma, Arial;
+	margin-top: 5pt;
+	margin-bottom: 4pt;
+	margin-left: 5pt
+}
+
+h3 {
+	color: black;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 11pt;
+	font-family: Hevletica, Tahoma, Arial;
+	margin-top: 5pt;
+	margin-bottom: 4pt;
+	margin-left: 0pt
+}
+
+
+/*
+ * language selection
+ */
+a.lang, a.lang:hover {
+	color: #000;
+	font-weight: normal;
+	font-size: 10px;
+	font-family: Verdana, Tahoma, Arial;
+}
+
+a.lang {
+	text-decoration: underline
+}
+a.lang:hover {
+	text-decoration: underline
+}
+
+/*
+ * navigation list
+ */
+a.navig, a.navig:hover {
+	font-weight: bold;
+	font-size: 13px;
+	font-family: Verdana, Tahoma, Arial;
+	text-decoration: none;
+	
+
+}
+
+a.navig {
+	color: #000;
+ 
+}
+a.navig:hover {
+	color: red;
+	text-decoration: underline;
+	
+}
+
+a.navig1, a.navig1:hover {
+	font-weight: normal;
+	font-size: 13px;
+	font-family: Verdana, Tahoma, Arial;
+	text-decoration: none;
+	
+
+}
+
+a.navig1 {
+	color: #000;
+ 
+}
+a.navig1:hover {
+	color: red;
+	text-decoration: underline;
+	
+}
+
+a.copy, a.copy:hover {
+	color: #a30000;
+	font-weight: bold;
+	font-size: 11px;
+	font-family: Verdana, Tahoma, Arial;
+}
+.copy {
+	text-decoration: none;
+
+}
+.copy:hover {
+	text-decoration: none
+}
+
+.copy, .copy:hover {
+	color: #a30000;
+	font-weight: bold;
+	font-size: 13px;
+	font-family: Verdana, Tahoma, Arial;
+	
+}
+.copy {
+	text-decoration: none;
+}
+.copy:hover {
+	text-decoration: none;
+}
+
+/*
+ * info box
+ */
+.infobox {
+	border: solid black 2px;
+	padding: 3px 3px 3px 3px;
+	background-color: white;
+	width: 100%;	
+}
+
+td.bak {
+	text-decoration: none;
+	background: white;
+	
+
+}
+td.bak:hover {
+	text-decoration: none;
+	background: #faebd7;
+	height: 10px;
+}
+
+td.bak, .copy:hover {
+	color: #a30000;
+	font-weight: bold;
+	font-size: 13px;
+	font-family: Verdana, Tahoma, Arial;
+	height: 10px;
+}
